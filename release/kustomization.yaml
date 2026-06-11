@@ -11,4 +11,4 @@ patches:
       - op: add
         path: /spec/template/spec/nodeSelector
         value:
-          workload-type: demo
+          workload-type: demo-amd64
